@@ -1,0 +1,135 @@
+body
+{
+    background-color: black;
+}
+
+h1
+{
+    color: rgb(52, 52, 243);
+    text-align: center;
+    padding-top: 20px;
+}
+.dev1
+{
+    text-align: center;
+}
+input{
+    width: 40%;
+    height: 20px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+button
+{
+    width: 100px;
+    height: 30px;
+    background-color:rgba(18, 102, 102, 0.74);
+    color: white;
+    border: none;
+}
+button:hover
+{
+    background-color: red;
+    color: black;
+}
+.dev3
+{
+    text-align: center;
+    padding-top: 200px;
+    
+}
+.search
+{
+    
+    text-align: center;
+    width: 60%;
+}
+table
+{
+    padding-top: 100px;
+    padding-left: 20%;
+   
+}
+th
+{
+    padding-left: 25px;
+    border: 2px dashed red;
+    color: #00cbec;
+
+    
+}
+.up
+{
+    color: #f1bf42;
+}
+.date
+{
+    color: #e13247;
+}
+
+td
+{
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 10px;
+    border: 2px dotted gold;
+    color: white;
+}
+.btn
+{
+    margin-bottom: 5px;
+    background-color: gold;
+}
+.btn:hover
+{
+    background-color: darkgray;
+}
+.btnn
+{
+    margin-bottom: 5px;
+    background-color: red;
+}
+.btnn:hover
+{
+    background-color: rgb(73, 4, 4);
+    color: white;
+}
+
+.dev4
+{
+    text-align: center;
+}
+h3{
+    color: white;
+}
+span
+{
+    color: gold;
+}
+.mail
+{
+    color: blue;
+}
+.cv
+{
+    color: red;
+    font-size: 50px;
+}
+
+.dev5
+{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+a
+{
+    padding-left: 50px;
+    color: blue;
+}
+a:hover
+{
+    color: rgb(41, 41, 88);
+}
